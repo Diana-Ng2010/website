@@ -1,4 +1,8 @@
 img {
   width: 150;
-  background: green;
+}
+
+body {
+  background: dark-green;
+  color: blue;
 }

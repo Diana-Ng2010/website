@@ -1,8 +1,12 @@
 img {
-  width: 150;
+  width: 150px;
 }
 
 body {
-  background: dark-green;
+  background-color: dark-green;
   color: blue;
+}
+
+h1 {
+  font-family: fantasy;
 }
